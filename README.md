@@ -18,6 +18,8 @@ python3:
 
 	$ python test_google_mirror/cli.py
 
+![example.png](./example.png)
+
 License
 =======
 
